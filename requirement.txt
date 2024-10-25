@@ -3,5 +3,4 @@ streamlit
 pandas
 numpy
 pickle
-os
-pickle
+scikit-learn
